@@ -1,4 +1,5 @@
-<script src="https://gist.github.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471.js"></script>
+<img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/banners/banner7.png" />
+
 <br><br>
 
 
