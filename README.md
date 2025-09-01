@@ -2,6 +2,7 @@
 <h3 align="center">I'm a **software developer** passionate about building scalable, efficient, and user-friendly applications.  
 I enjoy solving problems, contributing to open-source projects, and constantly exploring new technologies.
 </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalsingh-ai&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalsingh-ai" /> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pranjal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
