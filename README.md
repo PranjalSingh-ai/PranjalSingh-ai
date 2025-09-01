@@ -7,19 +7,22 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on MERN Stack **Chatbot , Biometric Security System**
+### 🛠️ Tech Stack
+- **Languages:** JavaScript, Python, TypeScript, Java  
+- **Frameworks:** React, Next.js, Node.js, Express  
+- **Databases:** MongoDB, PostgreSQL, MySQL  
+- **Tools & Platforms:** Docker, Git, AWS, Firebase  
 
-- 🌱 I’m currently learning **C, C++, Python, Django,, PowerBI, Tableau,Full Stack Development**
+### 🌱 Currently Learning
+- Advanced backend architectures  
+- Cloud-native development with Kubernetes  
+- AI/ML integrations with Python  
 
-- 👯 I’m looking to collaborate on **Biometric Security System**
+### 🤝 Open to
+- Collaborating on open-source projects  
+- Freelance and remote opportunities  
 
-- 🤝 I’m looking for help with **Full Stack Development**
-
-- 💬 Ask me about **React, MongoDB, NodeJS, ExpressJS**
-
-- 📫 How to reach me **pranjalsinghh26@gmail.com**
-
-- ⚡ Fun fact **I think my Coding style is funny**
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
