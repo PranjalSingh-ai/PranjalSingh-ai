@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranjal Singh</h1>
 
-<h3 align="center">I’m a software developer with a strong passion for creating scalable, efficient, and user-friendly applications that make a real impact. My work revolves around turning complex problems into clean, maintainable solutions that are both robust and easy to use.
+I'm a **software developer** passionate about building scalable, efficient, and user-friendly applications.  
+I enjoy solving problems, contributing to open-source projects, and constantly exploring new technologies.
 
-I thrive on problem-solving, whether it’s optimizing backend performance, crafting intuitive user interfaces, or integrating complex APIs. Beyond building products, I’m an active open-source contributor, always eager to share my work and collaborate with other developers to create meaningful tools and resources for the community.
-
-With an ever-curious mindset, I continuously explore new technologies, frameworks, and best practices — from cloud infrastructure and automation to the latest trends in AI and machine learning — ensuring that I stay ahead in a rapidly evolving tech landscape.</h3>
 
 ### 🛠️ Tech Stack
 - **Languages:** JavaScript, Python, TypeScript, Java  
